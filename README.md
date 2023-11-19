@@ -1,1 +1,1 @@
-# Computa-o-Distribu-da-com-o-MPI
+# Computacao distribuida com MPI
